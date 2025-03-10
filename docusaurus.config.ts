@@ -5,8 +5,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "동방프로젝트 한글화 문서",
+  tagline: "동방 굿",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -53,9 +53,9 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "동방프로젝트 한글화 문서",
       logo: {
-        alt: "My Site Logo",
+        alt: "동방프로젝트 한글화 문서",
         src: "img/logo.svg",
       },
       items: [
@@ -63,7 +63,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Games",
+          label: "동방",
         },
         {
           href: "https://github.com/facebook/docusaurus",
@@ -82,39 +82,22 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Games",
+              label: "동방",
               to: "/docs/intro",
             },
           ],
         },
         {
-          title: "Community",
+          title: "Creator",
           items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
             {
               label: "X",
-              href: "https://x.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://x.com/wealthygogi",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyleft © ${new Date().getFullYear()} @wealthygogi. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
