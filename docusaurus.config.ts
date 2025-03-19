@@ -87,7 +87,7 @@ const config: Config = {
           ],
         },
         {
-          title: "Creator",
+          title: "Editor",
           items: [
             {
               label: "X",
