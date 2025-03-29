@@ -6,7 +6,7 @@ description: "동방요요몽의 4면 보스"
 
 import lyricaPrismriver from './img/lyrica_prismriver.png';
 
-# 리리카 프리즘리버 (リリカ・プリズムリバー, Lyrica Prismriver)
+## 리리카 프리즘리버 (リリカ・プリズムリバー, Lyrica Prismriver)
 
 <img src={lyricaPrismriver} alt="리리카 프리즘리버" style={{width: 250}} />
 

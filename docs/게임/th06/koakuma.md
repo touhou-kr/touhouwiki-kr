@@ -4,7 +4,7 @@ title: "소악마"
 description: "동방홍마향의 4면 중간보스"
 ---
 
-# 소악마 (小悪魔, Koakuma)
+## 소악마 (小悪魔, Koakuma)
 
 import koakuma from './img/koakuma.png';
 

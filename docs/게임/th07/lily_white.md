@@ -6,7 +6,7 @@ description: "동방요요몽의 4면 중간보스"
 
 import lilyWhite from './img/lily_white.png';
 
-# 릴리 화이트 (リリーホワイト, Lily White)
+## 릴리 화이트 (リリーホワイト, Lily White)
 
 <img src={lilyWhite} alt="릴리 화이트" style={{width: 250}} />
 

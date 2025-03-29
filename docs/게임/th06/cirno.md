@@ -4,7 +4,7 @@ title: "치르노"
 description: "동방홍마향의 2면 중간보스"
 ---
 
-# 치르노 (チルノ, Cirno)
+## 치르노 (チルノ, Cirno)
 
 import cirno from './img/cirno.png';
 

@@ -4,7 +4,7 @@ title: "대요정"
 description: "동방홍마향의 2면 중간보스"
 ---
 
-# 대요정 (大妖精, Daiyousei)
+## 대요정 (大妖精, Daiyousei)
 
 import daiyousei from './img/daiyousei.png';
 

@@ -6,7 +6,7 @@ description: "동방요요몽의 4면 보스"
 
 import lunasaPrismriver from './img/lunasa_prismriver.png';
 
-# 루나사 프리즘리버 (ルナサ・プリズムリバー, Lunasa Prismriver)
+## 루나사 프리즘리버 (ルナサ・プリズムリバー, Lunasa Prismriver)
 
 <img src={lunasaPrismriver} alt="루나사 프리즘리버" style={{width: 250}} />
 

@@ -6,7 +6,7 @@ description: "동방요요몽의 5면 보스"
 
 import konpakuYoumu from './img/konpaku_youmu.png';
 
-# 콘파쿠 요우무 (魂魄 妖夢, Konpaku Youmu)
+## 콘파쿠 요우무 (魂魄 妖夢, Konpaku Youmu)
 
 <img src={konpakuYoumu} alt="콘파쿠 요우무" style={{width: 250}} />
 

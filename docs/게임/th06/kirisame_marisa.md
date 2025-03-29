@@ -4,7 +4,7 @@ title: "키리사메 마리사"
 description: "동방홍마향의 주인공"
 ---
 
-# 키리사메 마리사 (霧雨 魔理沙, Kirisame Marisa)
+## 키리사메 마리사 (霧雨 魔理沙, Kirisame Marisa)
 
 import kirisameMaria from './img/kirisame_marisa.png';
 

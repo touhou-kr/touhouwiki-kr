@@ -6,7 +6,7 @@ description: "동방요요몽의 1면 중간보스"
 
 import cirno from './img/cirno.png';
 
-# 치르노 (チルノ, Cirno)
+## 치르노 (チルノ, Cirno)
 
 <img src={cirno} alt="치르노" style={{width: 250}} />
 

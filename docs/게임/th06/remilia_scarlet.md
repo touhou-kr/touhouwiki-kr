@@ -4,7 +4,7 @@ title: "레밀리아 스칼렛"
 description: "동방홍마향의 6면 보스"
 ---
 
-# 레밀리아 스칼렛 (レミリア・スカーレット, Remilia Scarlet)
+## 레밀리아 스칼렛 (レミリア・スカーレット, Remilia Scarlet)
 
 import remiliaScarlet from './img/remilia_scarlet.png';
 

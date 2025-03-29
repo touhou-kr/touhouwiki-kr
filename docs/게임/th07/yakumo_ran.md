@@ -6,7 +6,7 @@ description: "동방요요몽의 엑스트라 보스"
 
 import yakumoRan from './img/yakumo_ran.png';
 
-# 야쿠모 란 (八雲 藍, Yakumo Ran)
+## 야쿠모 란 (八雲 藍, Yakumo Ran)
 
 <img src={yakumoRan} alt="야쿠모 란" style={{width: 250}} />
 

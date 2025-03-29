@@ -4,7 +4,7 @@ title: "루미아"
 description: "동방홍마향의 1면 보스"
 ---
 
-# 루미아 (ルーミア, Rumia)
+## 루미아 (ルーミア, Rumia)
 
 import rumia from './img/rumia.png';
 

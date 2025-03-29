@@ -4,7 +4,7 @@ title: "홍 메이링"
 description: "동방홍마향의 3면 보스"
 ---
 
-# 홍 메이링 (紅 美鈴, Hong Meiling)
+## 홍 메이링 (紅 美鈴, Hong Meiling)
 
 import hongMeiring from './img/hong_meiring.png';
 

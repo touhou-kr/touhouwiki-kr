@@ -4,7 +4,7 @@ title: "하쿠레이 레이무"
 description: "동방홍마향의 주인공"
 ---
 
-# 하쿠레이 레이무 (博麗 霊夢, Hakurei Reimu)
+## 하쿠레이 레이무 (博麗 霊夢, Hakurei Reimu)
 
 import hakureiReimu from './img/hakurei_reimu.png';
 

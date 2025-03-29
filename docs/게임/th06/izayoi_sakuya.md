@@ -4,7 +4,7 @@ title: "이자요이 사쿠야"
 description: "동방홍마향의 5면 보스"
 ---
 
-# 이자요이 사쿠야 (十六夜 咲夜, Izayoi Sakuya)
+## 이자요이 사쿠야 (十六夜 咲夜, Izayoi Sakuya)
 
 import izayoiSakuya from './img/izayoi_sakuya.png';
 

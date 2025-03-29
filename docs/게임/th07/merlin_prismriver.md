@@ -6,7 +6,7 @@ description: "동방요요몽의 4면 보스"
 
 import merlinPrismriver from './img/merlin_prismriver.png';
 
-# 메를랑 프리즘리버 (メルラン・プリズムリバー, Merlin Prismriver)
+## 메를랑 프리즘리버 (メルラン・プリズムリバー, Merlin Prismriver)
 
 <img src={merlinPrismriver} alt="메를랑 프리즘리버" style={{width: 250}} />
 

@@ -6,7 +6,7 @@ description: "동방요요몽의 1면 보스"
 
 import lettyWhiterock from './img/letty_whiterock.png';
 
-# 레티 화이트락 (レティ・ホワイトロック, Letty Whiterock)
+## 레티 화이트락 (レティ・ホワイトロック, Letty Whiterock)
 
 <img src={lettyWhiterock} alt="레티 화이트락" style={{width: 250}} />
 

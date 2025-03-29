@@ -6,7 +6,7 @@ description: "동방요요몽의 3면 보스"
 
 import aliceMargatroid from './img/alice_margatroid.png';
 
-# 앨리스 마가트로이드 (アリス・マーガトロイド, Alice Margatroid)
+## 앨리스 마가트로이드 (アリス・マーガトロイド, Alice Margatroid)
 
 <img src={aliceMargatroid} alt="앨리스 마가트로이드" style={{width: 250}} />
 

@@ -6,7 +6,7 @@ description: "동방요요몽의 2면 보스, 엑스트라 중간보스"
 
 import chen from './img/chen.png';
 
-# 첸 (橙, Chen)
+## 첸 (橙, Chen)
 
 <img src={chen} alt="첸" style={{width: 250}} />
 

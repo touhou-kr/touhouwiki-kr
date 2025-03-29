@@ -4,7 +4,7 @@ title: "파츄리 널리지"
 description: "동방홍마향의 4면 보스"
 ---
 
-# 파츄리 널릿지 (パチュリー・ノーレッジ, Patchouli Knowledge)
+## 파츄리 널릿지 (パチュリー・ノーレッジ, Patchouli Knowledge)
 
 import patchouliKnowledge from './img/patchouli_knowledge.png';
 

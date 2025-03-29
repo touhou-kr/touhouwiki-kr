@@ -6,7 +6,7 @@ description: "동방요요몽의 주인공 중 한 명"
 
 import izayoiSakuya from './img/izayoi_sakuya.png';
 
-# 이자요이 사쿠야 (十六夜 咲夜, Izayoi Sakuya)
+## 이자요이 사쿠야 (十六夜 咲夜, Izayoi Sakuya)
 
 <img src={izayoiSakuya} alt="이자요이 사쿠야" style={{width: 250}} />
 

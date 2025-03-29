@@ -4,7 +4,7 @@ title: "플랑드르 스칼렛"
 description: "동방홍마향의 엑스트라 보스"
 ---
 
-# 플랑드르 스칼렛 (フランドール・スカーレット, Flandre Scarlet)
+## 플랑드르 스칼렛 (フランドール・スカーレット, Flandre Scarlet)
 
 import flandreScarlet from './img/flandre_scarlet.png';
 
