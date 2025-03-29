@@ -1,12 +1,14 @@
 ---
 sidebar_position: 3
+title: "루미아"
+description: "동방홍마향의 1면 보스"
 ---
 
-# 루미아
+# 루미아 (ルーミア, Rumia)
 
-import img from './img/rumia.png';
+import rumia from './img/rumia.png';
 
-<img src={img} alt="img" style={{width: 250}} />
+<img src={rumia} alt="img" style={{width: 250}} />
 
 　○해질녘의 요괴  
 　　루미아  

@@ -1,12 +1,14 @@
 ---
 sidebar_position: 11
+title: "플랑드르 스칼렛"
+description: "동방홍마향의 엑스트라 보스"
 ---
 
-# 플랑도르 스칼렛
+# 플랑드르 스칼렛 (フランドール・スカーレット, Flandre Scarlet)
 
-import img from './img/flandre.png';
+import flandreScarlet from './img/flandre_scarlet.png';
 
-<img src={img} alt="img" style={{width: 250}} />
+<img src={flandreScarlet} alt="img" style={{width: 250}} />
 
 　○악마의 여동생  
 　　플랑드르 스칼렛  

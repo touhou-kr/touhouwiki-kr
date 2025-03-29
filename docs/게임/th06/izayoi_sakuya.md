@@ -1,12 +1,14 @@
 ---
 sidebar_position: 9
+title: "이자요이 사쿠야"
+description: "동방홍마향의 5면 보스"
 ---
 
-# 이자요이 사쿠야
+# 이자요이 사쿠야 (十六夜 咲夜, Izayoi Sakuya)
 
-import img from './img/sakuya.png';
+import izayoiSakuya from './img/izayoi_sakuya.png';
 
-<img src={img} alt="img" style={{width: 250}} />
+<img src={izayoiSakuya} alt="img" style={{width: 250}} />
 
 　○홍마관의 메이드  
 　　이자요이 사쿠야  

@@ -1,12 +1,14 @@
 ---
 sidebar_position: 6
+title: "홍 메이링"
+description: "동방홍마향의 3면 보스"
 ---
 
-# 홍미령
+# 홍 메이링 (紅 美鈴, Hong Meiling)
 
-import img from './img/meiring.png';
+import hongMeiring from './img/hong_meiring.png';
 
-<img src={img} alt="img" style={{width: 250}} />
+<img src={hongMeiring} alt="img" style={{width: 250}} />
 
 　○화인소녀  
 　　홍 메이링  

@@ -1,12 +1,14 @@
 ---
 sidebar_position: 8
+title: "파츄리 널리지"
+description: "동방홍마향의 4면 보스"
 ---
 
-# 파츄리 널릿지
+# 파츄리 널릿지 (パチュリー・ノーレッジ, Patchouli Knowledge)
 
-import img from './img/patchouli.png';
+import patchouliKnowledge from './img/patchouli_knowledge.png';
 
-<img src={img} alt="img" style={{width: 250}} />
+<img src={patchouliKnowledge} alt="img" style={{width: 250}} />
 
 　○지식과 그늘의 소녀  
 　　파츄리 널릿지  

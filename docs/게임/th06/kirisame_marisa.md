@@ -1,12 +1,14 @@
 ---
 sidebar_position: 2
+title: "키리사메 마리사"
+description: "동방홍마향의 주인공"
 ---
 
-# 키리사메 마리사
+# 키리사메 마리사 (霧雨 魔理沙, Kirisame Marisa)
 
-import img from './img/marisa.png';
+import kirisameMaria from './img/kirisame_marisa.png';
 
-<img src={img} alt="img" style={{width: 250}} />
+<img src={kirisameMaria} alt="img" style={{width: 250}} />
 
 　○기묘한 마법사  
 　　키리사메 마리사  

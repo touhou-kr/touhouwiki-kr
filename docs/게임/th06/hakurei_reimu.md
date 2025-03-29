@@ -1,12 +1,14 @@
 ---
 sidebar_position: 1
+title: "하쿠레이 레이무"
+description: "동방홍마향의 주인공"
 ---
 
-# 하쿠레이 레이무
+# 하쿠레이 레이무 (博麗 霊夢, Hakurei Reimu)
 
-import img from './img/reimu.png';
+import hakureiReimu from './img/hakurei_reimu.png';
 
-<img src={img} alt="img" style={{width: 250}} />
+<img src={hakureiReimu} alt="img" style={{width: 250}} />
 
 　○영원의 무녀  
 　　하쿠레이 레이무  
